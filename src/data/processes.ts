@@ -1,0 +1,58 @@
+export const processes = [
+  {
+    id: "8923",
+    pid: "512",
+    name: "kernel_task",
+    score: 98,
+    status: "Running",
+  },
+  {
+    id: "4531",
+    pid: "734",
+    name: "launchd",
+    score: 82,
+    status: "Running",
+  },
+  {
+    id: "6789",
+    pid: "891",
+    name: "syslogd",
+    score: 75,
+    status: "Running",
+  },
+  {
+    id: "2145",
+    pid: "1023",
+    name: "WindowServer",
+    score: 91,
+    status: "Running",
+  },
+  {
+    id: "8901",
+    pid: "1234",
+    name: "bash",
+    score: 45,
+    status: "Idle",
+  },
+  {
+    id: "3456",
+    pid: "2345",
+    name: "sshd",
+    score: 60,
+    status: "Running",
+  },
+  {
+    id: "9012",
+    pid: "3456",
+    name: "cron",
+    score: 30,
+    status: "Idle",
+  },
+  {
+    id: "5678",
+    pid: "4567",
+    name: "mysqld",
+    score: 88,
+    status: "Running",
+  },
+];
